@@ -109,3 +109,4 @@ need to perform some initial setup steps before you can test your action.
    $ docker run --env-file ./.env.test actions/hello-world-docker-action
    ::notice file=entrypoint.sh,line=7::Hello, Mona Lisa Octocat!
    ```
+   test edit
